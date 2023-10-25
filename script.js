@@ -124,7 +124,6 @@ function updateAIPosition() {
 updatePlayerPosition();
 document.addEventListener('keydown', movePlayer);
 
-// Add event listeners for the buttons
 document.getElementById('startButton').addEventListener('click', startGame);
 document.getElementById('stopButton').addEventListener('click', stopGame);
 document.getElementById('pauseButton').addEventListener('click', pauseGame);
