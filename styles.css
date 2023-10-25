@@ -4,8 +4,8 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: #222; /* Set your desired background color */
-    color: #fff; /* Set the text color */
+    background-color: #222; 
+    color: #fff; 
   }
   
   .game-container {
